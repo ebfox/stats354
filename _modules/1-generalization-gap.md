@@ -2,31 +2,42 @@
 title: "Module I — The Generalization Gap in Biohealth: Why “Scale” Fails"
 ---
 
-*Objective*: Understand why predictive success often fails to translate to deployment and interventions, and why mechanism/structure matter.
+**Objective:** Understand why predictive success often fails to translate to deployment and interventions, and why mechanism/structure matter.
 
+#### Week 1: **The Illusion of Success – Predictive success vs. Mechanistic validity**
+
+{: .schedule }
 Mar 30
 : **Lecture 1**{: .label .label-purple }
 
-  * The illusion of success: predictive success vs. mechanistic validity
+  * Why causality matters in biohealth
   * Course framing: generalization as scientific validity in real-world clinical and biological practice
-  * Canonical failure modes: proxy learning, selection/measurement bias, and feedback loops
+  * “World models” vs shortcut predictors; predictive accuracy vs counterfactual validity; getting to mechanistic validity.
+  * Canonical failure modes across domains: proxy learning, selection/measurement bias, and feedback loops
+  * Course overview and logistics
 
 Apr 1
 : **Lecture 2**{: .label .label-purple }
 
-  * Dataset shift taxonomy (covariate/label/concept) reframed causally: what changed in the data-generating process?
+  * Dataset shift taxonomy (covariate/label/concept) reframed causally: what changed in the data generating process?
   * Selection vs. sampling; collider bias; proxies and shortcut learning
   * Feedback/performativity in healthcare deployment (changing clinician behavior)
 
+
+#### Week 2: **Inductive Bias: Biological Priors**
+
+{: .schedule }
 Apr 6
 : **Lecture 3**{: .label .label-purple }
 
   * Inductive bias taxonomy: architectural / regularization / data / evaluation
-  * Mechanism-aligned bias vs. “bias toward the wrong story”
+  * Mechanism-aligned bias vs “bias toward the wrong story”
   * How inductive bias interacts with identifiability, robustness, and trustworthiness
 
 Apr 8
 : **Lecture 4**{: .label .label-purple }
 
-  * Case studies where inductive bias improves OOD generalization (physiology time series, perturbation biology, imaging)
+  * Case studies where inductive bias improves OOD generalization: physiology time series (state constraints, structured dynamics); perturbation biology (pathway/graph priors; compositionality); imaging (equivariance; nuisance suppression)
   * Cautionary tales: when structure increases overconfidence or locks in the wrong invariance
+
+

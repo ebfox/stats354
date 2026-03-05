@@ -9,7 +9,7 @@ author: "Emily Fox"
 # - If you deploy as a *project* site (e.g., https://<org>.github.io/stats354/),
 #   set baseurl: "/stats354" and url: "https://<org>.github.io"
 # - If you deploy as a *user/organization* site (e.g., https://<org>.github.io/),
-#   keep baseurl: "/"
+#   keep baseurl: "/stats354"
 baseurl: "/stats354"
 url: "https://ebfox.github.io"
 
