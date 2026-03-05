@@ -1,0 +1,59 @@
+# STATS 354 course website (based on the CS229B "Just the Class" template)
+
+title: "STATS 354"
+tagline: "STATS 354 - Generalization and Causality in Biohealth"
+description: ""
+author: "Emily Fox"
+
+# IMPORTANT:
+# - If you deploy as a *project* site (e.g., https://<org>.github.io/stats354/),
+#   set baseurl: "/stats354" and url: "https://<org>.github.io"
+# - If you deploy as a *user/organization* site (e.g., https://<org>.github.io/),
+#   keep baseurl: "/"
+baseurl: "/"
+url: "https://YOUR_GITHUB_PAGES_URL"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+
+# Theme settings
+remote_theme: just-the-docs/just-the-docs@v0.3.3
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+
+footer_content: >-
+  Powered by <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a>
+
+# Collections used by the template
+collections:
+  staffers:
+  modules:
+
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ""
+      type: staffers
+    values:
+      layout: staffer
+      subpath: "/assets/images/"
+  - scope:
+      path: ""
+      type: modules
+    values:
+      layout: module
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
+plugins:
+  - jekyll-seo-tag
