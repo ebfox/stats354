@@ -11,6 +11,8 @@ nav_order: 1
 
 While modern machine learning models often achieve superhuman performance on biohealth benchmarks, they frequently fail to generalize to new hospitals, patient populations, or biological contexts. This course investigates the theoretical and practical foundations of **generalizable inference** in biomedicine, focusing on the critical gap between predictive performance and mechanistic validity. We will examine how to build world models that leverage biological structure, enabling generalization beyond the training distribution.
 
+We will study ML models for clinical applications using EHR, imaging, and wearable data, as well as virtual cell models spanning imaging and omics modalities. Modeling frameworks will include sequence models, flow-matching generative models, vision transformers and language models, neural ODEs, variational autoencoders, and&mdash;in a forward-looking module&mdash;foundation models and agentic systems.
+
 Key topics include:
 - **Inductive biases** and biologically relevant priors
 - **Causal representation learning** (discovering latent state variables)
