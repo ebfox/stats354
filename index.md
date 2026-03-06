@@ -12,11 +12,12 @@ nav_order: 1
 While modern machine learning models often achieve superhuman performance on biohealth benchmarks, they frequently fail to generalize to new hospitals, patient populations, or biological contexts. This course investigates the theoretical and practical foundations of **generalizable inference** in biomedicine, focusing on the critical gap between predictive performance and mechanistic validity. We will examine how to build world models that leverage biological structure, enabling generalization beyond the training distribution.
 
 Key topics include:
-- Inductive biases and biologically relevant priors
-- Causal representation learning (discovering latent state variables)
-- Hybrid models (combining mechanistic ODEs with neural networks)
-- Learning from interventional data (from perturbation screens to policy learning)
-- Causal transportability and external validity
+- **Inductive biases** and biologically relevant priors
+- **Causal representation learning** (discovering latent state variables)
+- **Hybrid models** (e.g., combining mechanistic ODEs with neural networks)
+- **Learning from interventional data** (from perturbation screens to policy learning)
+- Causal **transportability** and external validity
+- **Frontier foundation and agentic models** in biohealth
 
 ## Teaching Team
 
