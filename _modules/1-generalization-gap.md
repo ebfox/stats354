@@ -24,20 +24,5 @@ Apr 1
   * Feedback/performativity in healthcare deployment (changing clinician behavior)
 
 
-#### Week 2: **Inductive Bias: Biological Priors**
-
-{: .schedule }
-Apr 6
-: **Lecture 3**{: .label .label-purple }
-
-  * Inductive bias taxonomy: architectural / regularization / data / evaluation
-  * Mechanism-aligned bias vs “bias toward the wrong story”
-  * How inductive bias interacts with identifiability, robustness, and trustworthiness
-
-Apr 8
-: **Lecture 4**{: .label .label-purple }
-
-  * Case studies where inductive bias improves OOD generalization: physiology time series (state constraints, structured dynamics); perturbation biology (pathway/graph priors; compositionality); imaging (equivariance; nuisance suppression)
-  * Cautionary tales: when structure increases overconfidence or locks in the wrong invariance
 
 
