@@ -24,5 +24,18 @@ Apr 1
   * Feedback/performativity in healthcare deployment (changing clinician behavior)
 
 
+#### Week 4: **Virtual Cell Models: hope vs. hype**
 
+{: .schedule }
+Apr 6
+: **Lecture 3**{: .label .label-purple } : **Guest lecture**{: .label .label-green }
+ 
+  * What is the objective of a “virtual cell” / “digital twin”?
+  * Interpolation vs extrapolation in perturbation space
+  * Evaluation beyond reconstruction: interventional prediction, transport across labs, mechanistic sanity checks, failure characterization
+
+Apr 8
+: **Lecture 4**{: .label .label-purple } : **Guest lecture**{: .label .label-green }
+
+  * Improving biological plausibility and generalizability of flow-matching virtual cell models
 
