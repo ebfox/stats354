@@ -15,7 +15,7 @@ Mar 30
 * Course overview and logistics
 
 Apr 1
-: **Lecture 2**{: .label .label-purple } Dataset shift and identification, reframed causally
+: **Lecture 2**{: .label .label-purple } **Dataset shift and identification, reframed causally**
 * Shift taxonomy (covariate/label/concept) : what changed in the data-generating process?
 * Selection vs. sampling; collider bias and selection; Berkson's bias
 * Feedback and performativity: when deployment changes the data-generating process
