@@ -22,11 +22,12 @@ May 27
 {: .schedule }
 Jun 1
 : **Lecture 18**{: .label .label-purple } **Integrative synthesis**
-* **Student presentations**{: .label .label-blue } LLMs and AI agents for causal reasoning in biology (2 papers)
 * Integrative synthesis: what we learned about inductive bias, state representation, interventions, and transport 
 * The dual thesis: every model claim stress-tested against identification *and* generalization
 * A "checklist for mechanistic generalization claims" to carry into research
 * Open problems and where the field is headed
+* **Student presentations**{: .label .label-blue } LLMs and AI agents for causal reasoning in biology (2 papers)
+
 
 Jun 3
 : **Final project presentations**{: .label .label-orange }
