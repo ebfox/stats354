@@ -8,7 +8,7 @@ title: "Module I — The Generalization Gap in Biohealth: Why “Scale” Fails"
 
 {: .schedule }
 Mar 30
-: **Lecture 1**{: .label .label-purple } Why causality matters in biohealth
+: **Lecture 1**{: .label .label-purple } **Why causality matters in biohealth**
 * Course framing: identification and generalization as scientific validity in real-world clinical and biological practice 
 * “World models” vs shortcut predictors; predictive accuracy vs counterfactual validity; getting to mechanistic validity.
 * Canonical failure modes across domains: proxy learning, selection/measurement bias, and feedback loops
@@ -26,13 +26,13 @@ Apr 1
 
 {: .schedule }
 Apr 6
-: **Lecture 3**{: .label .label-purple } : **TA-led**{: .label .label-yellow } Causal inference primer
+: **Lecture 3**{: .label .label-purple } : **TA-led**{: .label .label-yellow } **Causal inference primer**
 * DAGs, the do-operator, confounding, d-separation, backdoor criterion
 * Identification strategies: adjustment, instrumental variables, front-door criterion
 * ATE, ATT, CATE: the estimands that matter in biomedicine
 
 Apr 8
-: **Lecture 4**{: .label .label-purple } : **Guest lecture**{: .label .label-green } Virtual cell models — hope vs. hype
+: **Lecture 4**{: .label .label-purple } : **Guest lecture**{: .label .label-green } **Virtual cell models — hope vs. hype**
 * Objectives and evaluation of "virtual cells" / "digital twins"
 * Interpolation vs. extrapolation in perturbation space
 * Evaluation beyond reconstruction: interventional prediction, transport across labs, mechanistic sanity checks
