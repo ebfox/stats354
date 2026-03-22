@@ -11,18 +11,18 @@ May 25
 : **No class (Memorial Day)**{: .label }
 
 May 27
-: **Lecture 17**{: .label .label-purple } : **Guest lecture**{: .label .label-green } : **Student presentation**{: .label .label-blue } Can LLMs and AI agents reason causally about biology?
+: **Lecture 17**{: .label .label-purple } : **Guest lecture**{: .label .label-green } **Can LLMs and AI agents reason causally about biology?**
 * Where foundation models help: representation, multimodal alignment, hypothesis generation, protocol writing
 * Where they fail: hallucination, implicit selection bias, weak causal grounding
 * Evaluation: stress tests under shift, counterfactual probes, calibration of scientific claims
-* Student paper: AI agents for science, or evaluation of foundation models in biomedicine
+* **Student presentation**{: .label .label-blue } AI agents for science, or evaluation of foundation models in biomedicine
 
 #### Week 10: **Course Synthesis & Final Presentations**
 
 {: .schedule }
 Jun 1
-: **Lecture 18**{: .label .label-purple } : **Student presentations**{: .label .label-blue } Integrative synthesis
-* Student papers: LLMs and AI agents for causal reasoning in biology (2 papers)
+: **Lecture 18**{: .label .label-purple } **Integrative synthesis**
+* **Student presentations**{: .label .label-blue } LLMs and AI agents for causal reasoning in biology (2 papers)
 * Integrative synthesis: what we learned about inductive bias, state representation, interventions, and transport 
 * The dual thesis: every model claim stress-tested against identification *and* generalization
 * A "checklist for mechanistic generalization claims" to carry into research
