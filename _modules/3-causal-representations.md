@@ -2,46 +2,58 @@
 title: "Module III — Causal Representations & Learning from Interventions"
 ---
 
-**Objective:** Learn state representations that are stable and intervention-relevant; leverage interventional data to validate them.
+**Objective:** Learn representations that capture causal structure rather than associational shortcuts; leverage interventional data to validate and improve them.
 
-#### Week 5: **Causal Representation Learning: learning the “right” state**
-*Just-in-time concepts:* invariance logic, latent confounding intuition, identifiability conditions.
+#### Week 4: **Causal Representation Learning**
+
+{: .schedule }
+Apr 20
+: **Lecture 7**{: .label .label-purple } : **Student presentation**{: .label .label-blue } From pixels and counts to causal state
+* Why representation is the bottleneck for both generalization and identification
+* Invariance across environments; identifiability of latent causal variables
+* Causal disentanglement; representations as hypotheses tested by interventional and OOD probes
+* Student paper: hybrid or mechanistic modeling (e.g., structured dynamics, physics-informed approaches to clinical data, or domain-knowledge-constrained learning)
+
+Apr 22
+: **Lecture 8**{: .label .label-purple } : **Student presentations**{: .label .label-blue } Causal representation learning (3 papers)
+* Invariant/causal representations across environments, or causal foundation models
+* Non-identifiability, nuisance leakage, or representation failure
+* Causal disentanglement, independent mechanism analysis, or identifiability in single cells
+
+#### Week 5: **Learning from Interventional Data — Perturbation Biology as Causal Inference**
 
 {: .schedule }
 Apr 27
-: **Lecture 9**{: .label .label-purple }
-
-  * From pixels/counts to causal state: why representation is the bottleneck for generalization
-  * Invariance across environments; identifiability requirements (and why it often fails); causal disentanglement
-  * Do representations capture biological factors: representations as hypotheses tested by interventional and OOD probes
-
-Apr 27
-: **Project proposal due**{: .label .label-red }
-
-  * 1-page proposal (teams of up to 2)
+: **Lecture 9**{: .label .label-purple } : **Student presentation**{: .label .label-blue } Perturbation biology, multimodal representations, and interpretability
+* Estimands in perturbation biology 
+* Perturbation screens as the biological analogue of RCTs, with their own identification challenges (batch/plate and CRISPR non-targeting confounders)
+* CRISPR as "intent-to-treat": PerturbVI
+* Multimodal learning from unpaired data
+* Counterfactual inference in single cells; the benchmarking challenge (linear baselines vs. deep models)
+* Student paper: perturbation biology (e.g., response prediction, counterfactual inference, or benchmarking)
 
 Apr 29
-: **Lecture 10**{: .label .label-purple } : **Student-led paper presentations**{: .label .label-blue }
+: **Lecture 10**{: .label .label-purple } : **Student presentations**{: .label .label-blue } Perturbation biology, counterfactual inference & causal discovery (3 papers)
+* Perturbation response prediction or counterfactual inference in single cells
+* Causal structure learning from interventional data
+* Experimental design or active learning for perturbation screens
 
-  * One paper on invariant/causal representations across environments
-  * One paper highlighting non-identifiability or nuisance leakage
+May 1
+: **Project proposal due**{: .label .label-red }
+* 1-page proposal (teams of up to 2)
 
-
-#### Week 6: **Learning from Interventional Data**
+#### Week 6: **Foundation Models, Generative Approaches, and Evaluation**
 
 {: .schedule }
 May 4
-: **Lecture 11**{: .label .label-purple }
-
-  * Estimands in perturbation biology and experimental ML
-  * Batch/plate effects as confounding; compositionality and interaction effects
-  * Causal graph discovery with interventions; interference
-  * Multimodal learning from unpaired data
+: **Lecture 11**{: .label .label-purple } : **Guest lecture**{: .label .label-green } : **Student presentation**{: .label .label-blue } CellFlux — flow matching for perturbation prediction
+* CellFlux: flow matching for modeling morphological responses to perturbations
+* SDE extension with Bayesian treatment for improved generalization and OOD detection
+* CellFluxRL: RL-based post-training with biologically anchored rewards
+* Student paper: generative modeling or flow matching for biological data
 
 May 6
-: **Lecture 12**{: .label .label-purple } : **Student-led paper presentations**{: .label .label-blue }
-
-  * One paper on perturbation response prediction to unseen interventions
-  * One paper on graph discovery / causal structure learning from perturbations (or multimodal interventional modeling)
-
-
+: **Lecture 12**{: .label .label-purple } : **Student presentations**{: .label .label-blue } Foundation models, evaluation & benchmarking (3 papers)
+* Foundation models for single-cell or perturbation data
+* Evaluation methodology and benchmarking
+* Multimodal biological learning or mechanistic interpretability
