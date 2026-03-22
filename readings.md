@@ -65,6 +65,7 @@ Papers are organized by course module and topic. Some papers appear under multip
 - [Causal Graph ODE: Continuous Treatment Effect Modeling in Multi-agent Dynamical Systems](https://dl.acm.org/doi/abs/10.1145/3589334.3648148) (Huang et al., 2024)
 - [Trajectory Flow Matching with Applications to Clinical Time Series Modeling](https://proceedings.neurips.cc/paper_files/paper/2024/file/c1e67cde895c3c91edb43569ad0df260-Paper-Conference.pdf) (Huang et al., 2024)
 - [SPADE: Inferring Transcriptional Dynamics from Spatial Transcriptomics with Physics-Informed Deep Learning](https://openreview.net/forum?id=e5kEWUOcP3) (Wang et al., 2025)
+- [Data-driven causal model discovery and personalized prediction in Alzheimer's disease](https://www.nature.com/articles/s41746-022-00632-7) (Zheng et al., 2022)
 
 ---
 
@@ -190,6 +191,7 @@ Papers are organized by course module and topic. Some papers appear under multip
 - [Efficient Differentiable Discovery of Causal Order](https://arxiv.org/abs/2410.08787) (Chevalley et al., 2024)
 - [Causal gene regulatory network inference from Perturb-seq via adaptive instrumental variable modeling](https://www.biorxiv.org/content/10.64898/2026.02.18.706642v1) (Sun et al., 2026)
 - [Phenome-scale causal network discovery with bidirectional mediated Mendelian randomization](https://www.biorxiv.org/content/10.1101/2020.06.18.160176v2) (Brown et al., 2020)
+- [Data-driven causal model discovery and personalized prediction in Alzheimer's disease](https://www.nature.com/articles/s41746-022-00632-7) (Zheng et al., 2022)
 
 ---
 
