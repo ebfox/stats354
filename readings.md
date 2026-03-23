@@ -50,10 +50,14 @@ Papers are organized by course module and topic. Some papers appear under multip
 
 - ⭐ [Physics-informed machine learning](https://www.nature.com/articles/s42254-021-00314-5) (Karniadakis et al., 2021)
 - [Integrating Scientific Knowledge with Machine Learning for Engineering and Environmental Systems](https://dl.acm.org/doi/10.1145/3514228) (Willard et al., 2022)
+- ⭐ [Breiman's Two Cultures: You Don't Have to Choose Sides](https://muse.jhu.edu/article/799728) (Miller, Foti & Fox, 2021)
+
 
 **Clinical & Biomedical Applications**
 
+- ⭐ [Learning Insulin-Glucose Dynamics in the Wild](https://proceedings.mlr.press/v126/miller20a/miller20a.pdf) (Miller, Foti & Fox, 2020)
 - ⭐ [Hybrid² Neural ODE Causal Modeling and an Application to Glycemic Response](https://arxiv.org/abs/2402.17233) (Zou et al., 2024)
+- [Interpretable Mechanistic Representations for Meal-level Glycemic Control in the Wild](https://arxiv.org/abs/2312.03344) (Wang & Fox, 2023)
 - ⭐ [Integrating Expert ODEs into Neural ODEs: Pharmacology and Disease Progression](https://proceedings.neurips.cc/paper/2021/hash/5ea1649a31b63c12f9271bc264e3571e-Abstract.html) (Qian et al., 2021)
 - [Neural Pharmacodynamic State Space Modeling](https://proceedings.mlr.press/v139/hussain21a.html) (Hussain et al., 2021)
 - [Real-time electronic health record mortality prediction during the COVID-19 pandemic: A prospective cohort study](https://doi.org/10.1093/jamia/ocab100) (Sottile et al., 2021)
@@ -102,6 +106,7 @@ Papers are organized by course module and topic. Some papers appear under multip
 - [Use What You Know: Causal Foundation Models with Partial Graphs](https://arxiv.org/abs/2602.14972) (Robertson et al., 2026)
 - [An Information Criterion for Controlled Disentanglement of Multimodal Data](https://arxiv.org/abs/2410.23996) (Wang et al., 2024)
 - [Causal disentanglement for single-cell representations and controllable counterfactual generation](https://www.biorxiv.org/content/10.1101/2024.12.11.628077v1) (Gao et al., 2024)
+- [oi-VAE: Output Interpretable VAEs for Nonlinear Group Factor Analysis](https://proceedings.mlr.press/v80/ainsworth18a/ainsworth18a.pdf) (Ainsworth et al., 2018)
 
 ---
 
@@ -193,6 +198,7 @@ Papers are organized by course module and topic. Some papers appear under multip
 - [Causal gene regulatory network inference from Perturb-seq via adaptive instrumental variable modeling](https://www.biorxiv.org/content/10.64898/2026.02.18.706642v1) (Sun et al., 2026)
 - [Phenome-scale causal network discovery with bidirectional mediated Mendelian randomization](https://www.biorxiv.org/content/10.1101/2020.06.18.160176v2) (Brown et al., 2020)
 - [Data-driven causal model discovery and personalized prediction in Alzheimer's disease](https://www.nature.com/articles/s41746-022-00632-7) (Zheng et al., 2022)
+- ⭐ [Neural Granger Causality](https://ieeexplore.ieee.org/document/9376668) (Tank et al., 2021)
 
 ---
 
@@ -252,6 +258,7 @@ Papers are organized by course module and topic. Some papers appear under multip
 - [The Anatomy of a Personal Health Agent](https://arxiv.org/abs/2508.20148) (Heydari et al., 2025)
 - [Causal AI Scientist: Facilitating Causal Data Science with Large Language Models](https://openreview.net/pdf?id=EDWTHMVOCj) (Verma et al., 2025)
 - [CURE-Bench: AI Reasoning for Therapeutics](https://curebench.ai) (Zitnik et al., 2025)
+- [How Well Do Multimodal Models Reason on ECG Signals?](https://arxiv.org/abs/2603.00312) (Xu et al., 2026)
 
 ---
 
