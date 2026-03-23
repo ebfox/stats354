@@ -128,6 +128,7 @@ Papers are organized by course module and topic. Some papers appear under multip
 - [Fast and scalable Wasserstein-1 neural optimal transport solver for single-cell perturbation prediction](https://arxiv.org/abs/2411.00614) (Chen et al., 2024)
 - [Cross-modality Matching and Prediction of Perturbation Responses with Labeled Gromov-Wasserstein Optimal Transport](https://arxiv.org/abs/2405.00838) (Ryu et al., 2024)
 - [Mapping and reprogramming human tissue microenvironments with MintFlow](https://www.biorxiv.org/content/10.1101/2025.06.24.661094v2) (Akbarnejad et al., 2025)
+- [Predicting and interpreting cell-type-specific drug responses in the small-data regime using inductive priors](https://www.nature.com/articles/s42256-026-01202-2) (Alsulami et al., 2026)
 
 **Counterfactual Inference in Single Cells**
 
@@ -205,7 +206,7 @@ Papers are organized by course module and topic. Some papers appear under multip
 - [A Review of Generalizability and Transportability](https://doi.org/10.1146/annurev-statistics-042522-103837) (Degtiar & Rose, 2023)
 - [Extending inferences from a randomized trial to a target population](https://doi.org/10.1093/aje/kwz084) (Dahabreh et al., 2019)
 - [Synthetic and external controls in clinical trials](https://doi.org/10.1002/cpt.1742) (Thorlund et al., 2020)
-- [Virtual Cells Need Context, Not Just Scale](https://www.biorxiv.org/content/10.64898/2026.02.04.703804v1) (Dibaeinia et al., 2026)
+- ⭐ [Virtual Cells Need Context, Not Just Scale](https://www.biorxiv.org/content/10.64898/2026.02.04.703804v1) (Dibaeinia et al., 2026)
 - [Deciphering causal proteins in Alzheimer's disease: Mendelian randomization integrated with AlphaFold3](https://www.medrxiv.org/content/10.1101/2023.02.20.23286200v7) (Yao et al., 2023)
 
 ---
