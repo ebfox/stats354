@@ -32,7 +32,7 @@ Key topics include:
 
 **When**: Class is Mondays and Wednesdays 10:30–11:50am.
 
-**Where**: TBD (building, room).
+**Where**: Building 380, Room 380-F.
 
 **Links**:
 - [Ed](https://edstem.org/us/dashboard): This is the main way that you and the teaching team should communicate: we will post all important announcements here, and you should ask all course-related questions here.
