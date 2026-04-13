@@ -4,6 +4,6 @@ role: Instructor
 email: ebfox@stanford.edu
 website: https://emilybfox.su.domains
 photo: emily.jpeg
-office-hours: "TBD @ CoDa E246"
+office-hours: "Mondays 4-5pm @ CoDa E246"
 index: 1
 ---
